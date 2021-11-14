@@ -1,0 +1,5 @@
+Describe and justify three attributes of good requirements.
+
+Atomic/Independent: Requirements need to be small enough to not be dependent on other requirements
+Testable: Requirements need to be testable, otherwise there is no way to tell whether you met the requirement or not
+Focus on problem: Requirements should focus on the problem and constraints of the problem, rather than dictating the particular solution

@@ -1,0 +1,5 @@
+Compare and contrast the differences between authentication and authorisation, providing an example for each.
+
+Authentication is the process of verifying the identity of a user. Authorisation is the process of verifying an identity's access privileges.
+Authentication is moreso concerned with determining and validating that someone is who they say they are. For example, checking someone's password or driver's license to confirm it's really them.
+Authorisation is moreso concerned with checking what permissions an authenticated user has. For example, determining whether an authenticated user is a standard user or an admin user.
